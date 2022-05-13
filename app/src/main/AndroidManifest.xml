@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lionsclubdec">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LionsClubDEC"
+        android:vmSafeMode="true">
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".SpendingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".StatusActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegLogActivity"
+            android:exported="true" />
+        <activity
+            android:name=".YearlyTranActivity"
+            android:exported="true" />
+        <activity
+            android:name=".YearlyReportActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MonthlyTransActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MonthReportActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DailytransActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DailyReportActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ReportActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ClubDetailActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ClubActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DataEntryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

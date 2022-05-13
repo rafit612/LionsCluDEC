@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942160081676",
+    "firebase_url": "https://lions-club-dec-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lions-club-dec",
+    "storage_bucket": "lions-club-dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942160081676:android:953d91cb84e8bf64a8cf29",
+        "android_client_info": {
+          "package_name": "com.example.lionsclubdec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942160081676-5b6f7d9rud350tdkudetj1g4l6dksst6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5TMVZD-2XgcKQQenW2fDdYhCX3ZYAt3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942160081676-5b6f7d9rud350tdkudetj1g4l6dksst6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Lions Club DEC</string>
+
+    <string-array name="LCCL">
+        <item>BARGUNA GREATER -134214</item>
+        <item>BARISAL GREEN -118092</item>
+        <item>BARISAL METROPOLITAN -134182</item>
+        <item>BARISAL SOUTH BENGAL -134199</item>
+        <item>BARISAL SOUTHEAST -134183</item>
+        <item>BARISHAL -142042</item>
+        <item>BHOLA -144349</item>
+        <item>BIKRAMPUR GREEN -134185</item>
+        <item>COXS BAZAR -145177</item>
+        <item>DHAKA ADARSHA -124745</item>
+        <item>DHAKA AGERGAON GREEN -134167</item>
+        <item>DHAKA ANAMIKA -053840</item>
+        <item>DHAKA ANGEL -138822</item>
+        <item>DHAKA ARISTOCRAT GOLD -123190</item>
+        <item>DHAKA BANANI -044100</item>
+        <item>DHAKA BRAVO -125773</item>
+        <item>DHAKA BRAVO GREEN -139302</item>
+        <item>DHAKA CENTENNIAL GREEN -131703</item>
+        <item>DHAKA CENTENNIAL GREEN PLUS -131714</item>
+        <item>DHAKA CENTENNIAL UNIQUE -131704</item>
+        <item>DHAKA CENTENNIAL VISION -131705</item>
+        <item>DHAKA CENTRAL RAJDHANI -061141</item>
+        <item>DHAKA CENTURY 97 99 -140057</item>
+        <item>DHAKA CHAMPIONS -142753</item>
+        <item>DHAKA DEEPIKA -088117</item>
+        <item>DHAKA DELTA RAJDHANI -062584</item>
+        <item>DHAKA DHAMRAI -140077</item>
+        <item>DHAKA DHANMANDI -029670</item>
+        <item>DHAKA DIGNITY -097629</item>
+        <item>DHAKA DREAMY GREEN -126347</item>
+        <item>DHAKA DYNAMIC KINGS -142256</item>
+        <item>DHAKA FREEDOM -125644</item>
+        <item>DHAKA FRONTIER -122060</item>
+        <item>DHAKA GLOWING ROSE -134140</item>
+        <item>DHAKA GRAND -056064</item>
+        <item>DHAKA GRAND CAPITAL -058183</item>
+        <item>DHAKA GRAND CITY -134168</item>
+        <item>DHAKA GREATER TOWN -055614</item>
+        <item>DHAKA GREATER VALLEY -129218</item>
+        <item>DHAKA GREEN ELEGANCE -134169</item>
+        <item>DHAKA GREEN FAMILY -143230</item>
+        <item>DHAKA GREEN RAJDHANI -063566</item>
+        <item>DHAKA GREEN VISION -143463</item>
+        <item>DHAKA IDEAL -126072</item>
+        <item>DHAKA INDEPENDENT -124921</item>
+        <item>DHAKA INFINITY -138278</item>
+        <item>DHAKA KAWRAN BAZAR PREMIER -109214</item>
+        <item>DHAKA KHAMARBARI -121073</item>
+        <item>DHAKA KINGS -128298</item>
+        <item>DHAKA MARQUE -078658</item>
+        <item>DHAKA MEGA CITY -060581</item>
+        <item>DHAKA MIRPUR GREEN -143260</item>
+        <item>DHAKA MIRPUR IDEAL -134170</item>
+        <item>DHAKA NEW -077486</item>
+        <item>DHAKA NEW DIAMOND -060582</item>
+        <item>DHAKA ONE ENGINEERS -137401</item>
+        <item>DHAKA ONE PLUS -140101</item>
+        <item>DHAKA PALASH BARI -118081</item>
+        <item>DHAKA PALLABI -055615</item>
+        <item>DHAKA PALLABI CENTRAL -126945</item>
+        <item>DHAKA PLATINUM -139755</item>
+        <item>DHAKA POTENTIAL ASHULIA -142387</item>
+        <item>DHAKA PROGRESSIVE GREEN -134171</item>
+        <item>DHAKA RADIANCE SHINE -143702</item>
+        <item>DHAKA RAJANIGANDHA RAJDHANI -056762</item>
+        <item>DHAKA RISING ROSE -126946</item>
+        <item>DHAKA ROSE -056836</item>
+        <item>DHAKA SAVAR -047183</item>
+        <item>DHAKA SECOND CAPITAL -134172</item>
+        <item>DHAKA SPRING ASHULIA -109076</item>
+        <item>DHAKA SUGANDHA -053746</item>
+        <item>DHAKA SUNBEAM -146449</item>
+        <item>DHAKA TOWN -047769</item>
+        <item>DHAKA UNIQUE DOEL -144602</item>
+        <item>DHAKA UNIQUE GREEN -128263</item>
+        <item>DHAKA UTOPIA -115922</item>
+        <item>DHAKA YOUNG -143349</item>
+        <item>GAZIPUR IDEAL -101525</item>
+        <item>GAZIPUR MEGA PLUS -134174</item>
+        <item>JESSORE KAPOTAKKHO -046441</item>
+        <item>JHALOKATI -144348</item>
+        <item>KALKINI RAMJANPUR -105956</item>
+        <item>KHULNA -025911</item>
+        <item>KHULNA PAIGRAM KASBA -139237</item>
+        <item>KUAKATA -146450</item>
+        <item>KUMARKHALI KUSHTIA CENTENNIAL -131831</item>
+        <item>MADARIPUR -144358</item>
+        <item>MAGURA -146451</item>
+        <item>MEHERPUR -146445</item>
+        <item>MUNSHIGANJ -146452</item>
+        <item>NARAIL -146447</item>
+        <item>NARSINGDI -128299</item>
+        <item>NARSINGDI CENTENNIAL -130299</item>
+        <item>NARSINGDI GREATER -146446</item>
+        <item>PATUAKHALI -134200</item>
+        <item>PIROJPUR -144359</item>
+        <item>RAIPURA -128300</item>
+        <item>RAJBARI -146444</item>
+        <item>SAVAR PIONEER -067235</item>
+        <item>SAVAR SAKURA -127319</item>
+        <item>SAVAR ZUGI ZANGAL -139698</item>
+        <item>SHARIATPUR -146443</item>
+        <item>SINGAIR SAKURA -064763</item>
+    </string-array>
+</resources>
